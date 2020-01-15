@@ -1,0 +1,465 @@
+2020-01-15 00:05:39,817 INFO org.springframework.boot.StartupInfoLogger [main] Starting SimpleCalculatorControllerIntegrationTest on mohammad-TP301UJ with PID 30548 (started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:05:39,819 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:05:39,830 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:05:42,269 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:05:42,441 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:05:42,742 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:05:43,056 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 00:05:43,058 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 00:05:43,078 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 19 ms
+2020-01-15 00:05:43,118 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:05:43,156 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:05:43,201 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:05:43,412 INFO org.springframework.boot.StartupInfoLogger [main] Started SimpleCalculatorControllerIntegrationTest in 4.249 seconds (JVM running for 6.006)
+2020-01-15 00:05:43,791 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] sth is calledcom.code.challenge.calculator.dto.request.SimpleOperationCommandDTO@6d0290d8
+2020-01-15 00:05:43,859 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:25:05,197 INFO org.springframework.boot.StartupInfoLogger [main] Starting SimpleCalculatorControllerIntegrationTest on mohammad-TP301UJ with PID 32557 (started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:25:05,200 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:25:05,203 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:25:08,275 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:25:08,468 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:25:08,879 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:25:09,408 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 00:25:09,408 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 00:25:09,427 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 18 ms
+2020-01-15 00:25:09,466 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:25:09,501 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:25:09,550 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:25:09,775 INFO org.springframework.boot.StartupInfoLogger [main] Started SimpleCalculatorControllerIntegrationTest in 5.568 seconds (JVM running for 7.479)
+2020-01-15 00:25:10,225 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] sth is calledcom.code.challenge.calculator.dto.request.SimpleOperationCommandDTO@73a6cc79
+2020-01-15 00:25:10,292 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:25:26,603 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on mohammad-TP301UJ with PID 32617 (/home/mohammad/Downloads/claculator/target/classes started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:25:26,610 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:25:26,611 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:25:28,223 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 00:25:28,230 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:25:28,230 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 00:25:28,231 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 00:25:28,282 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 00:25:28,282 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1557 ms
+2020-01-15 00:25:28,711 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:25:28,768 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:25:28,860 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:25:29,092 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:25:29,105 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:25:29,131 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:25:29,250 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:25:29,262 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 00:25:29,265 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 3.279 seconds (JVM running for 3.872)
+2020-01-15 00:25:29,269 INFO com.code.challenge.calculator.CalculatorApplication [main] System has started
+2020-01-15 00:25:35,563 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 00:25:35,563 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 00:25:35,569 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-01-15 00:26:20,524 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:27:02,846 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on mohammad-TP301UJ with PID 359 (/home/mohammad/Downloads/claculator/target/classes started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:27:02,850 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:27:02,851 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:27:05,081 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 00:27:05,087 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:27:05,089 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 00:27:05,090 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 00:27:05,160 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 00:27:05,160 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2178 ms
+2020-01-15 00:27:05,665 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:27:05,734 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:27:05,836 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:27:06,108 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:27:06,122 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:27:06,164 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:27:06,354 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:27:06,370 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 00:27:06,374 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 4.154 seconds (JVM running for 4.92)
+2020-01-15 00:27:06,380 INFO com.code.challenge.calculator.CalculatorApplication [main] System has started
+2020-01-15 00:27:28,980 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 00:27:28,981 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 00:27:28,986 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2020-01-15 00:30:14,050 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:30:30,651 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on mohammad-TP301UJ with PID 813 (/home/mohammad/Downloads/claculator/target/classes started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:30:30,661 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:30:30,662 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:30:32,173 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 00:30:32,180 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:30:32,181 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 00:30:32,181 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 00:30:32,232 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 00:30:32,233 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1476 ms
+2020-01-15 00:30:32,671 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:30:32,735 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:30:32,816 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:30:33,041 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:30:33,054 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:30:33,077 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:30:33,199 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:30:33,210 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 00:30:33,213 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 3.162 seconds (JVM running for 3.764)
+2020-01-15 00:30:33,217 INFO com.code.challenge.calculator.CalculatorApplication [main] System has started
+2020-01-15 00:30:46,206 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 00:30:46,207 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 00:30:46,213 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-01-15 00:33:42,215 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:33:47,039 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on mohammad-TP301UJ with PID 1393 (/home/mohammad/Downloads/claculator/target/classes started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:33:47,052 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:33:47,059 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:33:48,658 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 00:33:48,665 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:33:48,666 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 00:33:48,667 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 00:33:48,714 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 00:33:48,714 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1440 ms
+2020-01-15 00:33:49,138 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:33:49,204 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:33:49,297 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:33:49,525 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:33:49,537 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:33:49,560 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:33:49,673 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 00:33:49,685 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 00:33:49,688 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 3.317 seconds (JVM running for 3.901)
+2020-01-15 00:33:49,694 INFO com.code.challenge.calculator.CalculatorApplication [main] System has started
+2020-01-15 00:33:58,540 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 00:33:58,540 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 00:33:58,546 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2020-01-15 00:36:46,230 INFO org.springframework.boot.StartupInfoLogger [main] Starting SimpleCalculatorControllerIntegrationTest on mohammad-TP301UJ with PID 1783 (started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:36:46,240 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:36:46,241 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:36:50,178 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:36:50,534 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:36:51,035 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:36:51,614 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 00:36:51,615 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 00:36:51,637 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 21 ms
+2020-01-15 00:36:51,686 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:36:51,728 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:36:51,779 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:36:52,047 INFO org.springframework.boot.StartupInfoLogger [main] Started SimpleCalculatorControllerIntegrationTest in 6.956 seconds (JVM running for 9.715)
+2020-01-15 00:36:52,478 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] sth is calledcom.code.challenge.calculator.dto.request.SimpleOperationCommandDTO@6f38f084
+2020-01-15 00:36:52,553 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:37:21,653 INFO org.springframework.boot.StartupInfoLogger [main] Starting SimpleCalculatorControllerIntegrationTest on mohammad-TP301UJ with PID 1879 (started by mohammad in /home/mohammad/Downloads/claculator)
+2020-01-15 00:37:21,656 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 00:37:21,658 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 00:37:25,383 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 00:37:25,698 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 00:37:26,202 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 00:37:26,696 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 00:37:26,698 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 00:37:26,720 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 21 ms
+2020-01-15 00:37:26,767 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 00:37:26,805 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 00:37:26,863 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 00:37:27,142 INFO org.springframework.boot.StartupInfoLogger [main] Started SimpleCalculatorControllerIntegrationTest in 6.681 seconds (JVM running for 9.043)
+2020-01-15 00:37:27,739 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] sth is calledcom.code.challenge.calculator.dto.request.SimpleOperationCommandDTO@3e6ec74
+2020-01-15 00:37:27,766 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] sth is calledcom.code.challenge.calculator.dto.request.SimpleOperationCommandDTO@6d7ad0f5
+2020-01-15 00:37:27,802 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 12:43:39,443 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on miti with PID 10472 (C:\Users\LENOVO\Desktop\codes\code-challenge-calculator\target\classes started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 12:43:39,479 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 12:43:39,483 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 12:43:43,616 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 12:43:43,684 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 12:43:43,684 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 12:43:43,684 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 12:43:44,029 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 12:43:44,033 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 4358 ms
+2020-01-15 12:43:45,226 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 12:43:45,338 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 12:43:45,474 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 12:43:45,854 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 12:43:45,894 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 12:43:45,970 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 12:43:46,338 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 12:43:46,410 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 12:43:46,418 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 8.972 seconds (JVM running for 13.924)
+2020-01-15 12:43:46,454 INFO com.code.challenge.calculator.CalculatorApplication [main] System has started
+2020-01-15 12:44:13,883 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 12:44:13,883 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 12:44:13,903 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 20 ms
+2020-01-15 12:44:34,263 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-6] 80.0factorial is equal to 0
+2020-01-15 12:45:28,163 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-7] 75.0factorial is equal to 0
+2020-01-15 12:48:29,627 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-9] 3.0is not a number
+2020-01-15 12:48:37,497 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-1] 4.0is not a prime number
+2020-01-15 12:50:20,235 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-4] 25.0factorial is equal to 7034535277573963776
+2020-01-15 12:50:52,545 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-6] 55.0factorial is equal to 6711489344688881664
+2020-01-15 12:51:01,625 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-7] 56.0factorial is equal to 6908521828386340864
+2020-01-15 12:51:11,586 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-8] 65.0factorial is equal to -9223372036854775808
+2020-01-15 12:51:22,500 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-10] 60.0factorial is equal to -8718968878589280256
+2020-01-15 12:51:33,359 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-9] 57.0factorial is equal to 6404118670120845312
+2020-01-15 12:51:42,268 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-1] 58.0factorial is equal to 2504001392817995776
+2020-01-15 12:51:50,787 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-2] 59.0factorial is equal to 162129586585337856
+2020-01-15 12:57:38,832 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on miti with PID 9172 (C:\Users\LENOVO\Desktop\codes\code-challenge-calculator\target\classes started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 12:57:38,836 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 12:57:38,836 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 12:57:44,077 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 12:57:44,112 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 12:57:44,112 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 12:57:44,112 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 12:57:44,308 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 12:57:44,308 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 5336 ms
+2020-01-15 12:57:45,560 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 12:57:45,708 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 12:57:45,948 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 12:57:46,280 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 12:57:46,340 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 12:57:46,412 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 12:57:46,752 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 12:57:46,917 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 12:57:46,925 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 9.796 seconds (JVM running for 13.608)
+2020-01-15 12:57:46,941 INFO com.code.challenge.calculator.CalculatorApplication [main] System has started
+2020-01-15 12:58:00,871 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 12:58:00,871 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 12:58:00,899 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 24 ms
+2020-01-15 12:58:58,903 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-7] 5.0 factorial is equal to 120
+2020-01-15 13:16:14,274 INFO org.springframework.boot.StartupInfoLogger [main] Starting CalculatorApplication on miti with PID 12096 (C:\Users\LENOVO\Desktop\codes\code-challenge-calculator\target\classes started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 13:16:14,289 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 13:16:14,289 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 13:16:16,235 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-01-15 13:16:16,235 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 13:16:16,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-01-15 13:16:16,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 13:16:16,344 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-01-15 13:16:16,344 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1946 ms
+2020-01-15 13:16:16,922 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 13:16:17,000 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 13:16:17,110 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 13:16:17,266 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 13:16:17,297 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 13:16:17,328 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 13:16:17,563 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 13:16:17,594 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 13:16:17,594 INFO org.springframework.boot.StartupInfoLogger [main] Started CalculatorApplication in 4.065 seconds (JVM running for 5.575)
+2020-01-15 13:16:17,594 INFO com.code.challenge.calculator.CalculatorApplication [main] System has been started
+2020-01-15 13:17:38,837 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-15 13:17:38,837 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-01-15 13:17:38,873 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 36 ms
+2020-01-15 13:17:59,512 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [http-nio-8080-exec-7] factorial is called for 5
+2020-01-15 13:17:59,528 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-7] 5.0 factorial is equal to 120
+2020-01-15 13:18:24,932 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [http-nio-8080-exec-8] factorial is called for -10
+2020-01-15 13:18:24,936 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-8] the value must be int or long and between 1 and 59 -10.0
+2020-01-15 13:19:10,216 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [http-nio-8080-exec-10] input data is ScientificOperationCommandDTO{operator=10.0, operation=SQR}
+2020-01-15 13:20:47,743 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [http-nio-8080-exec-3] is-prime operation is called for 91
+2020-01-15 13:20:47,743 INFO com.code.challenge.calculator.service.ScientificCalculatorService [http-nio-8080-exec-3] 91.0 is not a prime number
+2020-01-15 13:22:11,510 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [http-nio-8080-exec-4] add operation is called for 5.0 and 25.0
+2020-01-15 13:22:11,514 INFO com.code.challenge.calculator.service.SimpleCalculatorService [http-nio-8080-exec-4] 5.0 + 25.0 = 30.0
+2020-01-15 13:23:12,166 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [http-nio-8080-exec-6] divide operation is called for 25.0 and 5.1
+2020-01-15 13:23:12,166 INFO com.code.challenge.calculator.service.SimpleCalculatorService [http-nio-8080-exec-6] 25.0 / 5.1 = 4.901960784313726
+2020-01-15 13:23:35,146 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [http-nio-8080-exec-7] divide operation is called for 25.0 and 0.0
+2020-01-15 13:23:35,146 ERROR com.code.challenge.calculator.service.SimpleCalculatorService [http-nio-8080-exec-7] second operand must not be zero
+2020-01-15 13:26:51,879 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [http-nio-8080-exec-8] multiply operation is called for 5.0 and 12.0
+2020-01-15 13:26:51,883 INFO com.code.challenge.calculator.service.SimpleCalculatorService [http-nio-8080-exec-8] 5.0 * 12.0 = 60.0
+2020-01-15 13:27:28,373 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [http-nio-8080-exec-9] subtract operation is called for 5.0 and 5.0
+2020-01-15 13:27:28,373 INFO com.code.challenge.calculator.service.SimpleCalculatorService [http-nio-8080-exec-9] 5.0 - 5.0 = 0.0
+2020-01-15 13:27:59,503 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [http-nio-8080-exec-10] the input data is SimpleOperationCommandDTO{firstOperator=5.0, secondOperator=25.0, operation=ADD}
+2020-01-15 13:27:59,503 INFO com.code.challenge.calculator.service.SimpleCalculatorService [http-nio-8080-exec-10] 5.0 + 25.0 = 30.0
+2020-01-15 13:42:29,212 INFO org.springframework.boot.StartupInfoLogger [main] Starting SimpleCalculatorControllerIntegrationTest on miti with PID 4904 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 13:42:29,216 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 13:42:29,220 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 13:42:34,136 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 13:42:34,760 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 13:42:35,553 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 13:42:36,093 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 13:42:36,093 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 13:42:36,133 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 40 ms
+2020-01-15 13:42:36,185 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 13:42:36,245 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 13:42:36,293 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 13:42:36,550 INFO org.springframework.boot.StartupInfoLogger [main] Started SimpleCalculatorControllerIntegrationTest in 8.469 seconds (JVM running for 12.352)
+2020-01-15 13:42:38,673 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=10.0, secondOperator=0.0, operation=DIV}
+2020-01-15 13:42:38,677 ERROR com.code.challenge.calculator.service.SimpleCalculatorService [main] second operator must not be zero
+2020-01-15 13:42:38,863 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=10.0, secondOperator=15.0, operation=ADD}
+2020-01-15 13:42:38,867 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 10.0 + 15.0 = 25.0
+2020-01-15 13:42:39,037 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] add operation is called for 7.0 and 8.0
+2020-01-15 13:42:39,045 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 7.0 + 8.0 = 15.0
+2020-01-15 13:42:39,081 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] subtract operation is called for 17.0 and 8.0
+2020-01-15 13:42:39,085 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 17.0 - 8.0 = 9.0
+2020-01-15 13:42:39,141 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] multiply operation is called for 10.0 and 20.0
+2020-01-15 13:42:39,141 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 10.0 * 20.0 = 200.0
+2020-01-15 13:42:39,173 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] divide operation is called for 16.0 and 8.0
+2020-01-15 13:42:39,177 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 16.0 / 8.0 = 2.0
+2020-01-15 13:42:39,217 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] divide operation is called for 16.0 and 0.0
+2020-01-15 13:42:39,217 ERROR com.code.challenge.calculator.service.SimpleCalculatorService [main] second operator must not be zero
+2020-01-15 13:42:39,297 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 13:46:07,655 INFO org.springframework.boot.StartupInfoLogger [main] Starting SimpleCalculatorControllerIntegrationTest on miti with PID 8628 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 13:46:07,659 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 13:46:07,659 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 13:46:11,236 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 13:46:11,516 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 13:46:12,348 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 13:46:12,920 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 13:46:12,920 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 13:46:12,944 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 24 ms
+2020-01-15 13:46:12,988 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 13:46:13,044 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 13:46:13,100 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 13:46:13,401 INFO org.springframework.boot.StartupInfoLogger [main] Started SimpleCalculatorControllerIntegrationTest in 6.384 seconds (JVM running for 8.108)
+2020-01-15 13:46:14,110 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=10.0, secondOperator=0.0, operation=DIV}
+2020-01-15 13:46:14,114 ERROR com.code.challenge.calculator.service.SimpleCalculatorService [main] second operator must not be zero
+2020-01-15 13:46:14,254 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=10.0, secondOperator=15.0, operation=ADD}
+2020-01-15 13:46:14,254 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 10.0 + 15.0 = 25.0
+2020-01-15 13:46:14,302 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=5.0, secondOperator=5.0, operation=MUL}
+2020-01-15 13:46:14,306 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 5.0 * 5.0 = 25.0
+2020-01-15 13:46:14,374 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=25.0, secondOperator=5.0, operation=DIV}
+2020-01-15 13:46:14,378 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 25.0 / 5.0 = 5.0
+2020-01-15 13:46:14,418 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] add operation is called for 7.0 and 8.0
+2020-01-15 13:46:14,422 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 7.0 + 8.0 = 15.0
+2020-01-15 13:46:14,478 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] subtract operation is called for 17.0 and 8.0
+2020-01-15 13:46:14,490 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 17.0 - 8.0 = 9.0
+2020-01-15 13:46:14,506 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] multiply operation is called for 10.0 and 20.0
+2020-01-15 13:46:14,506 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 10.0 * 20.0 = 200.0
+2020-01-15 13:46:14,534 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] divide operation is called for 16.0 and 8.0
+2020-01-15 13:46:14,538 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 16.0 / 8.0 = 2.0
+2020-01-15 13:46:14,554 INFO com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] divide operation is called for 16.0 and 0.0
+2020-01-15 13:46:14,554 ERROR com.code.challenge.calculator.service.SimpleCalculatorService [main] second operator must not be zero
+2020-01-15 13:46:14,592 DEBUG com.code.challenge.calculator.controller.v1.SimpleCalculatorController [main] the input data is {firstOperator=25.0, secondOperator=15.0, operation=SUB}
+2020-01-15 13:46:14,596 INFO com.code.challenge.calculator.service.SimpleCalculatorService [main] 25.0 - 15.0 = 10.0
+2020-01-15 13:46:14,640 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 13:52:07,577 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorControllerTest on miti with PID 11560 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 13:52:07,623 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 13:52:07,623 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 13:52:10,946 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 13:52:11,180 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 13:52:11,664 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 13:52:12,133 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 13:52:12,133 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 13:52:12,149 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 16 ms
+2020-01-15 13:52:12,196 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 13:52:12,227 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 13:52:12,258 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 13:52:12,493 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorControllerTest in 5.715 seconds (JVM running for 7.401)
+2020-01-15 13:52:12,821 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 3
+2020-01-15 13:52:12,837 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 3.0 factorial is equal to 6
+2020-01-15 13:52:12,899 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:05:44,068 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorControllerTest on miti with PID 9908 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 14:05:44,068 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 14:05:44,068 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 14:05:47,281 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 14:05:47,515 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 14:05:47,984 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:05:48,359 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 14:05:48,359 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 14:05:48,375 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 16 ms
+2020-01-15 14:05:48,406 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 14:05:48,453 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 14:05:48,484 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 14:05:48,687 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorControllerTest in 5.408 seconds (JVM running for 7.029)
+2020-01-15 14:05:49,031 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] is-prime operation is called for 7
+2020-01-15 14:05:49,031 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 7.0 is not a number
+2020-01-15 14:05:49,109 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 111
+2020-01-15 14:05:49,109 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 111.0
+2020-01-15 14:05:49,140 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 3
+2020-01-15 14:05:49,140 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 3.0 factorial is equal to 6
+2020-01-15 14:05:49,156 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] square is called for -1.0
+2020-01-15 14:05:49,156 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be greater than 0 -1.0
+2020-01-15 14:05:49,156 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for -1
+2020-01-15 14:05:49,156 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 -1.0
+2020-01-15 14:05:49,219 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] square is called for 9.0
+2020-01-15 14:05:49,234 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:09:10,395 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorControllerTest on miti with PID 12176 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 14:09:10,395 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 14:09:10,395 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 14:09:13,176 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 14:09:13,426 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 14:09:13,911 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:09:14,380 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 14:09:14,380 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 14:09:14,395 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 15 ms
+2020-01-15 14:09:14,426 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 14:09:14,473 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 14:09:14,504 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 14:09:14,723 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorControllerTest in 5.07 seconds (JVM running for 6.816)
+2020-01-15 14:09:15,348 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:09:37,148 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorControllerTest on miti with PID 10136 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 14:09:37,148 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 14:09:37,163 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 14:09:39,951 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 14:09:40,186 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 14:09:40,623 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:09:40,999 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 14:09:40,999 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 14:09:41,014 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 15 ms
+2020-01-15 14:09:41,046 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 14:09:41,092 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 14:09:41,124 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 14:09:41,358 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorControllerTest in 4.903 seconds (JVM running for 6.472)
+2020-01-15 14:09:41,780 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:20:23,172 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorControllerTest on miti with PID 6576 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 14:20:23,172 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 14:20:23,172 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 14:20:26,363 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 14:20:26,613 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 14:20:27,066 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:20:27,488 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 14:20:27,488 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 14:20:27,504 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 16 ms
+2020-01-15 14:20:27,551 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 14:20:27,582 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 14:20:27,629 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 14:20:27,816 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorControllerTest in 5.2 seconds (JVM running for 6.708)
+2020-01-15 14:20:28,266 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=81.0, operation=SQR}
+2020-01-15 14:20:28,328 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=3.0, operation=FAC}
+2020-01-15 14:20:28,344 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 3.0 factorial is equal to 6
+2020-01-15 14:20:28,359 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] is-prime operation is called for 7
+2020-01-15 14:20:28,359 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 7.0 is not a number
+2020-01-15 14:20:28,375 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 111
+2020-01-15 14:20:28,375 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 111.0
+2020-01-15 14:20:28,390 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 3
+2020-01-15 14:20:28,406 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] square is called for -1.0
+2020-01-15 14:20:28,406 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be greater than 0 -1.0
+2020-01-15 14:20:28,406 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=-1.0, operation=SQR}
+2020-01-15 14:20:28,406 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be greater than 0 -1.0
+2020-01-15 14:20:28,422 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=1.25, operation=PRM}
+2020-01-15 14:20:28,422 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and greater than 0 1.25
+2020-01-15 14:20:28,437 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for -1
+2020-01-15 14:20:28,437 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 -1.0
+2020-01-15 14:20:28,437 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=17.0, operation=PRM}
+2020-01-15 14:20:28,437 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 17.0 is not a number
+2020-01-15 14:20:28,469 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=-3.0, operation=FAC}
+2020-01-15 14:20:28,469 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 -3.0
+2020-01-15 14:20:28,469 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] square is called for 9.0
+2020-01-15 14:20:28,500 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:21:05,693 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorControllerTest on miti with PID 10144 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 14:21:05,693 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 14:21:05,693 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 14:21:08,382 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 14:21:08,632 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 14:21:09,384 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:21:09,853 INFO org.springframework.mock.web.MockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2020-01-15 14:21:09,853 INFO org.springframework.web.servlet.FrameworkServlet [main] Initializing Servlet ''
+2020-01-15 14:21:09,868 INFO org.springframework.web.servlet.FrameworkServlet [main] Completed initialization in 15 ms
+2020-01-15 14:21:09,900 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 14:21:09,931 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 14:21:09,982 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 14:21:10,170 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorControllerTest in 5.043 seconds (JVM running for 6.854)
+2020-01-15 14:21:10,607 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=81.0, operation=SQR}
+2020-01-15 14:21:10,654 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=3.0, operation=FAC}
+2020-01-15 14:21:10,669 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 3.0 factorial is equal to 6
+2020-01-15 14:21:10,701 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] is-prime operation is called for 7
+2020-01-15 14:21:10,701 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 7.0 is not a number
+2020-01-15 14:21:10,716 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 111
+2020-01-15 14:21:10,716 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 111.0
+2020-01-15 14:21:10,716 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for 3
+2020-01-15 14:21:10,732 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] square is called for -1.0
+2020-01-15 14:21:10,732 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be greater than 0 -1.0
+2020-01-15 14:21:10,748 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=-1.0, operation=SQR}
+2020-01-15 14:21:10,748 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be greater than 0 -1.0
+2020-01-15 14:21:10,748 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=1.25, operation=PRM}
+2020-01-15 14:21:10,748 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and greater than 0 1.25
+2020-01-15 14:21:10,763 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] factorial is called for -1
+2020-01-15 14:21:10,763 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 -1.0
+2020-01-15 14:21:10,779 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=17.0, operation=PRM}
+2020-01-15 14:21:10,779 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 17.0 is not a number
+2020-01-15 14:21:10,794 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] input data is {operator=-3.0, operation=FAC}
+2020-01-15 14:21:10,810 ERROR com.code.challenge.calculator.service.ScientificCalculatorService [main] the value must be int or long and between 1 and 59 -3.0
+2020-01-15 14:21:10,826 INFO com.code.challenge.calculator.controller.v1.ScientificCalculatorController [main] square is called for 9.0
+2020-01-15 14:21:10,841 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:39:37,894 INFO org.springframework.boot.StartupInfoLogger [main] Starting ScientificCalculatorServiceTest on miti with PID 3636 (started by LENOVO in C:\Users\LENOVO\Desktop\codes\code-challenge-calculator)
+2020-01-15 14:39:37,894 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 14:39:37,894 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-01-15 14:39:41,221 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-01-15 14:39:41,471 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-15 14:39:41,940 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 14:39:42,331 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2020-01-15 14:39:42,362 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2020-01-15 14:39:42,424 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2020-01-15 14:39:42,955 INFO org.springframework.boot.StartupInfoLogger [main] Started ScientificCalculatorServiceTest in 5.606 seconds (JVM running for 7.07)
+2020-01-15 14:39:43,377 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 3.0 factorial is equal to 6
+2020-01-15 14:39:43,377 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 4.0 factorial is equal to 24
+2020-01-15 14:39:43,377 INFO com.code.challenge.calculator.service.ScientificCalculatorService [main] 5.0 factorial is equal to 120
+2020-01-15 14:39:43,409 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'

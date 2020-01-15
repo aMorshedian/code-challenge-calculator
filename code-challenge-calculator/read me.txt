@@ -1,0 +1,5 @@
+For testing this project you can use the swagger with the below link
+http://localhost:8080/swagger-ui.html
+
+Also there are enough test cases if you want to test it.
+For the factorial and isPrime method I have used cache .
